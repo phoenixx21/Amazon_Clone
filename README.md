@@ -1,7 +1,7 @@
 # Amazon Clone Project
 
 ## Overview
-This project is a clone of the Amazon website created using HTML, CSS, and JavaScript. It demonstrates a responsive and interactive user interface inspired by Amazon's homepage. The project is deployed using GitHub Pages and can be accessed [here](#).
+This project is a clone of the Amazon website created using HTML, CSS, and JavaScript. It demonstrates a responsive and interactive user interface inspired by Amazon's homepage.
 
 ---
 

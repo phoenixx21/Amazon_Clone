@@ -22,9 +22,6 @@ This project is a clone of the Amazon website created using HTML, CSS, and JavaS
   - Quick links to important Amazon pages.
   - Organized into sections like "Get to Know Us", "Make Money with Us", and more.
 
-- **Mobile-Friendly Design**:
-  - Fully responsive layout optimized for desktops, tablets, and mobile devices.
-
   ### JavaScript Features:
 1. **Search Bar Interaction**:
    - Logs user search input to simulate real-time interaction.

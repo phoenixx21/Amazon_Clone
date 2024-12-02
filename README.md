@@ -1,11 +1,13 @@
-# Amazon Clone
+# Amazon Clone Project
 
-A simple clone of the Amazon homepage built using **HTML** and **CSS** to replicate the structure, design, and functionality of the original platform. This project is focused on creating a responsive and visually appealing layout as a front-end exercise.
+## Overview
+This project is a clone of the Amazon website created using HTML, CSS, and JavaScript. It demonstrates a responsive and interactive user interface inspired by Amazon's homepage. The project is deployed using GitHub Pages and can be accessed [here](#).
 
 ---
 
 ## 📌 Features
 
+### HTML & CSS Features:
 - **Responsive Header**: 
   - Logo, location, search bar, and account details.
   - Interactive cart icon and navigation links.
@@ -22,6 +24,26 @@ A simple clone of the Amazon homepage built using **HTML** and **CSS** to replic
 
 - **Mobile-Friendly Design**:
   - Fully responsive layout optimized for desktops, tablets, and mobile devices.
+
+  ### JavaScript Features:
+1. **Search Bar Interaction**:
+   - Logs user search input to simulate real-time interaction.
+
+2. **Cart Functionality**:
+   - Click on the cart icon to add items to the cart.
+   - Displays a dynamic cart count with an alert.
+
+3. **Responsive Navigation**:
+   - Toggles the visibility of category options when the "All" button is clicked.
+
+4. **Scroll-to-Top Button**:
+   - Smoothly scrolls to the top of the page when the "Back to Top" button is clicked.
+
+5. **Dynamic Category Links**:
+   - Clicking on a category redirects the user (simulated with an alert).
+
+6. **Hero Section Interaction**:
+   - Clicking the link in the hero section simulates a redirect to Amazon India.
 
 ---
 
